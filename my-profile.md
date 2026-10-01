@@ -22,5 +22,8 @@
 ```C#
 string owo = "σ '∀ ') '∀')σ";
 foreach (char c in owo)
+{
     System.Console.Write(c);
+    System.Threading.Thread.Sleep(200); 
+}
 ```
