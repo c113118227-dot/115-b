@@ -19,11 +19,8 @@
 | 南大附中 | 資訊應用學程 |
 | 高科大 | 資訊管理系 |
 
-```C#
-string owo = "σ '∀') '∀')σ";
-foreach (char c in owo)
-{
-    System.Console.Write(c);
-    System.Threading.Thread.Sleep(200); 
-}
+```python
+print("Hello, Markdown!")
+print("σ '∀') '∀')σ")
 ```
+> uuh > huu 
