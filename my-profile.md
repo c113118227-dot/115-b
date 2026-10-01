@@ -8,11 +8,11 @@
 
 *要拚 要操作*
 
-[非常好網站](https://www.youtube.com/)
+[非常好網站](https://www.nicovideo.jp/watch/sm6834953)
 
 ![圖片](0w0.gif)
 
-> 賠率低 那就用串的<(ºOº)>
+> 賠率低 那就用串的   <(ºOº)>
 
 | 學校 | 學程/科系 |
 | :--- | :--- |
@@ -20,7 +20,7 @@
 | 高科大 | 資訊管理系 |
 
 ```C#
-string owo = "σ '∀ ') '∀')σ";
+string owo = "σ '∀') '∀')σ";
 foreach (char c in owo)
 {
     System.Console.Write(c);
